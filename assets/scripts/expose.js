@@ -59,5 +59,5 @@ function init() {
             }
             audio_control.play();
         }
-    })
+    });
 }
